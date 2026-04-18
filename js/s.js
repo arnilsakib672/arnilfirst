@@ -7,7 +7,7 @@
     "use strict";
 
     // ===== CONFIGURATION =====
-    const OFFER_URL = "https://www.etsy.com/listing/1810415825/personalized-coffee-mug-custom-mug-photo";
+    const OFFER_URL = "https://www.etsy.com/";
 
     // ===== MAIN REDIRECT FUNCTION =====
     function trackAndRedirect() {
